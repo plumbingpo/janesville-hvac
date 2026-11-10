@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://janesvillehvac.com/sitemap.xml
